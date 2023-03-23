@@ -20,6 +20,9 @@ image:
 ## Define envFrom
 # envFrom:
 
+# ttlSecondsAfterFinished
+ttlSecondsAfterFinished: 100
+
 ## Job configurations
 backoffLimit: 4
 restartPolicy: Never
