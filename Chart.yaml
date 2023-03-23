@@ -14,7 +14,3 @@ source:
 maintainers:
   - name: alexnuttinck
   - name: terence-bigtt
-dependencies:
-- name: common
-  version: "^0.0.5"
-  repository: "https://kubernetes-charts-incubator.storage.googleapis.com/"

@@ -17,6 +17,9 @@ image:
 ## Define env
 # env:
 
+## Define envFrom
+# envFrom:
+
 ## Job configurations
 backoffLimit: 4
 restartPolicy: Never

@@ -1,4 +1,0 @@
-{{- include "common.configmap" (list . "job.configmap") -}}
-{{- define "job.configmap" -}}
-## Define overrides for your Configmap here.
-{{- end -}}
